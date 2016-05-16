@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="gbk"%>
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
 String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    <label>╦Эпбобю╢пч╦дтыио╢╚</label>
+    <label>Ф⌡╢Ф√╟Д╦▀Ф²╔Д©╝Ф■╧Е├█Д╦┼Д╪═</label>
   </body>
 </html>
